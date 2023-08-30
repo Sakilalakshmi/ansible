@@ -1,5 +1,6 @@
 [mongodb]
-roboshop-us-dev-db-mongodb-01.learningdevops.shop
+172.31.35.181
+#roboshop-us-dev-db-mongodb-01.learningdevops.shop
 
 [mongodb:vars]
 MONGO_USERNAME=mongodbadmin
